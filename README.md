@@ -20,7 +20,7 @@ Quick install (Windows + XAMPP)
 1. Clone the repository and change directory:
 
 ```bash
-git clone <repo-url> entrata-ai-code-explainer
+git clone https://github.com/sunil3944/entrata-ai-code-explainer.git entrata-ai-code-explainer
 cd entrata-ai-code-explainer
 ```
 
